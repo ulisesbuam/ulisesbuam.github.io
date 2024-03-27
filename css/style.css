@@ -1,0 +1,20 @@
+body {
+    
+    height: 100vh;
+    margin: 0;
+    
+    background: linear-gradient(to bottom right, rgb(245, 238, 202), rgb(245, 136, 97));
+}
+
+.indie-flower-regular {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
